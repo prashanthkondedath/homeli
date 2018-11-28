@@ -14,4 +14,8 @@ Hardware Needed:
 
 Support: www.kindlab.in
 
+Project Structure:
+1. Android App Code : Controlling Homeli hub
+2. Homeli Hub Code: Rpi code of homeli
+
 
